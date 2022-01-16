@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>Sci-Fi</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Animation</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Horror</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Romance</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Fantasy</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Crime</string>
+	</dict>
+</array>
+</plist>

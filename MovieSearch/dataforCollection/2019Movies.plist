@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fantasy</key>
+	<array>
+		<string>Joker</string>
+		<string>Jumanji</string>
+		<string>Toy Story 4</string>
+		<string>Doctor Sleep</string>
+		<string>Avengers Endgame</string>
+	</array>
+	<key>Romance</key>
+	<array>
+		<string>You</string>
+		<string>Love Hard</string>
+		<string>The French Dispatch</string>
+		<string>Big MOuth</string>
+		<string>Grey&apos; Anatomy</string>
+	</array>
+	<key>Crime</key>
+	<array>
+		<string>Red Notice</string>
+		<string>Dexter</string>
+		<string>Jai Bhim</string>
+		<string>You</string>
+		<string>House of Gucci</string>
+	</array>
+	<key>Horror</key>
+	<array>
+		<string>Last Night in Soho</string>
+		<string>Yellowjackets</string>
+		<string>Stranger Things</string>
+		<string>Hellbound</string>
+		<string>The Walking Dead</string>
+	</array>
+	<key>Animation</key>
+	<array>
+		<string>Arcane</string>
+		<string>The Simpsons</string>
+		<string>Big Mouth</string>
+		<string>Encanto</string>
+		<string>Cowboy Bebop</string>
+	</array>
+	<key>Sci-Fi</key>
+	<array>
+		<string>Spider-Man No way Home</string>
+		<string>Shang-Chi and The Legend of The Rings</string>
+		<string>Dune</string>
+		<string>Cowboy Bebop</string>
+		<string>Free Guy</string>
+	</array>
+</dict>
+</plist>
